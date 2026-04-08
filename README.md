@@ -37,7 +37,7 @@ Users can:
 ### 1. Clone the repo
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/sinch1717/Snap-Puzzle
 cd live-puzzle
 ```
 
