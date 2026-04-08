@@ -131,3 +131,4 @@ Each entry:
 - Works best on Chrome / Edge
 - Network issues may block MediaPipe model loading
 - You can update `.firebaserc` with your own Firebase project ID if needed.
+- The project draws inspiration from 'Live Puzzle' project by https://byisabellek.com/ 
